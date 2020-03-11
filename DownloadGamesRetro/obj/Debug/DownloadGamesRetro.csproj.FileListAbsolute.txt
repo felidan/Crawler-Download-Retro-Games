@@ -1,0 +1,11 @@
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\bin\Debug\DownloadGamesRetro.exe.config
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\bin\Debug\DownloadGamesRetro.exe
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\bin\Debug\DownloadGamesRetro.pdb
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\obj\Debug\DownloadGamesRetro.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\obj\Debug\DownloadGamesRetro.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\obj\Debug\DownloadGamesRetro.exe
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\obj\Debug\DownloadGamesRetro.pdb
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\bin\Debug\HtmlAgilityPack.dll
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\bin\Debug\HtmlAgilityPack.xml
+C:\Users\felip\Desktop\games\DownloadGamesRetro\DownloadGamesRetro\obj\Debug\DownloadGamesRetro.csproj.CopyComplete

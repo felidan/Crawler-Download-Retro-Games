@@ -1,0 +1,10 @@
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\bin\Debug\TopRating.exe.config
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\bin\Debug\TopRating.exe
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\bin\Debug\TopRating.pdb
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\obj\Debug\TopRating.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\obj\Debug\TopRating.exe
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\obj\Debug\TopRating.pdb
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\bin\Debug\HtmlAgilityPack.dll
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\bin\Debug\HtmlAgilityPack.xml
+C:\Users\felip\Desktop\games\DownloadGamesRetro\TopRating\obj\Debug\TopRating.csproj.CopyComplete
