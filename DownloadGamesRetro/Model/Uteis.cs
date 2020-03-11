@@ -7,7 +7,8 @@ namespace DownloadGamesRetro.Model
     {
         public static string LimpaString(this string a)
         {
-            return a.IndexOf('(') > 0 ? a.Substring(0, a.IndexOf('(')).Trim() : a;
+            a = a.Replace("'", "").ToUpper();
+            return a.IndexOf('(') > -1 ? a.Substring(0, a.IndexOf('(')).Trim() : a;
         }
 
         public static void ValidaDiretorio(string url)
